@@ -1,6 +1,9 @@
 # Personal Notes App
 
-This is a simple Flutter application for managing personal notes. It uses the sqflite package for local database storage.
+This is a simple Flutter application for managing personal notes. It uses the SQLite package for local database storage.
+
+![Flutter](https://img.icons8.com/color/48/flutter.png)
+![Dart](https://img.icons8.com/color/48/dart.png)
 
 ## Features
 
@@ -8,11 +11,12 @@ This is a simple Flutter application for managing personal notes. It uses the sq
 - Set a title, description, priority, color, and date for each note
 - View the list of notes with different sorting options
 - Search for notes
+- warning modals
 - Responsive layout with support for multiple screen sizes
 
 ## Screenshots
 
-![GIF - PROJETC](URL_do_GIF)
+![GIF - PROJETC](https://github.com/matheuslara01/personal-notes/blob/main/notes.gif)
 
 ## Getting Started
 
@@ -28,18 +32,18 @@ This is a simple Flutter application for managing personal notes. It uses the sq
 
 2. Navigate to the project directory:
    
-  `cd notes-app`
+   `cd notes-app`
    
 3. Install dependencies:
    
-  `flutter pub get`
+   `flutter pub get`
 
 ### Usage
 
 1. Connect a device or emulator.
 2. Run the app:
    
-  `flutter run`
+   `flutter run`
    
 ### Contributing
 
