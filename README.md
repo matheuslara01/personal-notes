@@ -1,16 +1,50 @@
-# notes
+# Personal Notes App
 
-A new Flutter project.
+This is a simple Flutter application for managing personal notes. It uses the sqflite package for local database storage.
+
+## Features
+
+- Create, update, and delete notes
+- Set a title, description, priority, color, and date for each note
+- View the list of notes with different sorting options
+- Search for notes
+- Responsive layout with support for multiple screen sizes
+
+## Screenshots
+
+![GIF - PROJETC](URL_do_GIF)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   `git clone https://github.com/your-username/notes-app.git`
+
+2. Navigate to the project directory:
+   
+  `cd notes-app`
+   
+3. Install dependencies:
+   
+  `flutter pub get`
+
+### Usage
+
+1. Connect a device or emulator.
+2. Run the app:
+   
+  `flutter run`
+   
+### Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
