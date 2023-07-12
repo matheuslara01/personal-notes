@@ -49,6 +49,8 @@ This is a simple Flutter application for managing personal notes. It uses the SQ
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-### License
+---
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
